@@ -1,4 +1,4 @@
-<h1 align="center">SysFlow - Mini ITSM Platform</h1>
+<h1 align="center">💻 SysFlow - Mini ITSM Platform</h1>
 
 <p align="center">
   <img src="assets/image/readme_logo.png" width="400">
@@ -166,6 +166,7 @@ Este projeto foi desenvolvido por **Elvio Patrick**.
 - [LinkedIn](https://www.linkedin.com/in/elviopatrickdev/) 
 
 - [GitHub](https://github.com/elviopatrickdev)
+
 
 
 
