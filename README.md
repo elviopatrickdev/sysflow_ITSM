@@ -1,6 +1,6 @@
 # SysFlow - Mini ITSM Platform
 
-<img src="assets/image/readme_logo.png" width="300">
+<img src="assets/image/readme_logo.png" width="400">
 
 **SysFlow** é uma plataforma **mini ITSM (IT Service Management)** desenvolvida como projeto de portfólio para demonstrar habilidades em **HTML, CSS, JavaScript, PHP e MySQL**, simulando funcionalidades de plataformas profissionais como **ServiceNow** e **Jira Service Management**.
 
@@ -164,4 +164,5 @@ Este projeto foi desenvolvido por **Elvio Patrick**.
 - [LinkedIn](https://www.linkedin.com/in/elviopatrickdev/) 
 
 - [GitHub](https://github.com/elviopatrickdev)
+
 
