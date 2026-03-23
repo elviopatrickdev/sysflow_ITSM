@@ -1,7 +1,7 @@
 <h1 align="center">💻 SysFlow - Mini ITSM Platform</h1>
 
 <p align="center">
-  <img src="assets/image/readme_logo.png" width="400">
+  <img src="assets/image/Sysflow01.png" width="500">
 </p>
 
 **SysFlow** é uma plataforma **mini ITSM (IT Service Management)** desenvolvida como projeto de portfólio para demonstrar habilidades em **HTML, CSS, JavaScript, PHP e MySQL**, simulando funcionalidades de plataformas profissionais como **ServiceNow** e **Jira Service Management**.
