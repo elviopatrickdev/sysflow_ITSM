@@ -8,8 +8,6 @@
 
 O projeto foca em **gestão de tickets, solicitações de TI e dashboards interativos**, mostrando capacidade de integrar **frontend moderno, backend em PHP e banco de dados MySQL**, com APIs internas.
 
-[🔗 Acesse o SysFlow Online](https://sysflow.wuaze.com/) 
-
 ---
 
 ## 📌 Funcionalidades
